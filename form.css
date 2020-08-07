@@ -1,0 +1,51 @@
+body{
+    background-color: cornflowerblue;
+}
+form{
+    font-family: monospace;
+}
+.img{
+    font-size: small;
+    height: 100;
+    width: auto;
+    background-color: sienna;
+}
+.nom{
+   
+    color: skyblue;
+    width: 100px;
+    height: 100px;
+
+}
+.logo{
+    background-color:yellowgreen;
+    width: 100px;
+    height: 100px;
+}
+.ul1{
+     background-color: violet;
+     height: 50px;
+     width: 150px;
+     font-family: monospace;
+}
+.ul2{
+    background-color: turquoise;
+    height: 50px;
+     width: 150px;
+}
+.ul3{
+    background-color: yellow;
+    height: 50px;
+     width: 150px;
+}
+.li4{
+    background-color:burlywood;
+    height: 50px;
+     width: 150px;
+}
+.li5{
+    height: 50px;
+     width: 150px;
+}
+.button{
+}
